@@ -6,6 +6,8 @@ socialImage: ZA-logo-banner.png
 # Zenith Academy Reference (OUTDATED)
 
 
+ 
+THIS SHOULD ONLY BE REVEALED AFTER SESSION 1 
 
 
 
