@@ -9,6 +9,8 @@ socialImage: ZA-logo-banner.png
  
 THIS SHOULD ONLY BE REVEALED AFTER SESSION 1 
 
+ 
+WILL THIS BE REVEALED IF I SKIP A SESSION NUMBER
 
 
 ## The World of Cehiri
