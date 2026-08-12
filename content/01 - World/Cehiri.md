@@ -13,11 +13,19 @@ tags:
 
 174 years ago, the boundary between worlds shattered. This catastrophic event, known as [[The Long Night]], opened Cehiri to the greater Beyond. The realm barrier was torn asunder and rifts emerged alongside mana bringing forth Mankind's greatest tribulation yet.
 
-The Sundering:
-- Opened rifts between worlds
-- Awakened supernatural "Gifts" in all people
-- Introduced existential threats to the world
-- Triggered the Age of Ruin that followed
+Scholars still debate the cause. Some claim a failed ritual by a cabal of archmages attempting to tap into a new source of power. Others believe it was intentional, an act by forces beyond the veil. A few fringe theorists suggest Cehiri's world spirit itself tore the boundary open.
+
+Whatever the cause, the results were catastrophic and transformative.
+
+The first few decades were called the [[Age of Ruin]]. Portals ripped open across the world. Creatures poured through. Magic density spiked so dramatically that ley lines could be seen with the naked eye. The old nations crumbled. Billions died.
+
+But the mortal rages emerged from the ashes, anger and retribution held with their eyes as they roared against the sky and raised their weapons.
+
+Now, nearly 175 years later, the world exists in tense equilibrium. New nations have risen from the dust, ancient mysteries of the past have stepped forth from the shadows. It is an era of change, of warfare, of light against the darkness.
+
+The invaders have been pushed back to contested zones but never truly defeated. And every year, the boundary grows thinner, allowing stronger entities to cross over. It's a battle of attrition, and one we are slowly losing.
+
+This is where you step in O brave students of Zenith, shine like the brightest of stars and cast your light upon the Myriad Races and show that mankind will not go quietly into the night. 
 
 ## Gifts
 
