@@ -29,24 +29,36 @@ This is where you step in O brave students of Zenith, shine like the brightest o
 
 ## Gifts
 
-Every person in Cehiri possesses a [[Gift]], a unique supernatural ability awakened by the Sundering. Gifts vary wildly in power and application.
+The events of [[The Long Night]] awoke special metaphysical abilities laying dormant within each soul. These abilities, colloquially called Gifts, manifest typically early on in life and have become a part of daily life in Cehiri. 
+
+Before the Sundering, Gifts were rare and limited in usage such as bending a spoon with one's mind. Now they are universal, awakened by the same catastrophe that tore the boundary apart.
 
 Some Gifts are [[Lineage Gifts]], passed down through family lines with variations. These often predate the Sundering by centuries, though the Sundering strengthened them.
 
-Clearing dungeons can sometimes increase the strength of a Gift through absorbed [[Essence (Gift)]].
+Your Gift is a part of who you are, some even think its a representation of a facet of one's soul. At Zenith Academy, students learn to develop their Gifts alongside traditional magic and combat techniques, preparing them for the battle that lays ahead.
+
+*Note: Clearing dungeons can sometimes increase the strength of a Gift through absorbed [[Essence (Gift)]].*
 
 ## [[Technology]]
 
-Cehiri blends magic and technology into a modern fantasy society:
+The technology level of that in Cehiri is that of modern fantasy, at or above our current level of technology. Here both magic and technology are blended into a modern fantasy society. Some common things you might see are:
 
-- **Scrolls:** Magical communication devices (essentially magic phones)
-- **Swifts:** Flying vehicles for transportation
+- **Scrolls:** Magical communication devices used for tracking currency, sending messages, browsing the aethernet, and more (essentially magic phones)
+- **Swifts:** Flying vehicles for transportation (similar to air cars)
 - **Leviathans:** Large flying vessels for long-distance travel
-- **The Aethernet:** Magical information network
+- **The Aethernet:** Magical information network (like the internet)
+
+Cities are protected by magical [[Hecatean Wards]] that detect and repel Incursor incursions.
+
+There is a lot more for you to discover within the world as well.
 
 ## [[Guilds]]
 
-Professional organizations that handle various threats and services. Guild membership is a common career path for Academy graduates.
+Professional organizations that handle various threats and services. All manner of guilds exist, ranging from extremely public guilds run like a company, to private, or even family owned guilds. 
+
+Guilds usually specialize in one or more areas such as forging weapons, fighting against [[Incursors]], construction, exploring dungeons, and so on and so forth. The sky is truly the limit. 
+
+Guild membership is a common career path for Academy graduates.
 
 ## [[Dungeons]]
 
